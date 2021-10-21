@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naim</h1>
-<h3 align="center">A passionate software engineer</h3>
+<!-- <h3 align="center">A passionate software engineer</h3> -->
 
-- 🔭 I’m currently developing [PaaS](https://klovercloud.com/)
+I am a full-tack engineer with 4+ years of hands-on experience in designing, developing, and
+implementing applications and solutions using a range of technologies and programming
+languages. Seeking to leverage broad development experience and hands-on technical
+expertise in a challenging role as a full-stack Developer.
 
-- 🌱 I’m currently learning **everything**
 
 ### 💻 Languages and Tools:
 
