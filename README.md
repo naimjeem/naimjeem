@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Naim</h1>
+<h1 align="center">Hi 👋</h1>
 <!-- <h3 align="center">A passionate software engineer</h3> -->
 
-I am a full-tack engineer with 4+ years of hands-on experience in designing, developing, and
-implementing applications and solutions using a range of technologies and programming
-languages. Seeking to leverage broad development experience and hands-on technical
-expertise in a challenging role as a full-stack Developer.
+DevOps & Full-stack Engineer with experince in Node.js, NestJS, Rust and DevOps ecosystem. Skilled in building scalable, high-performance applications and automating deployments using Docker, and Jenkins, AWS. Passionate
+about clean architecture, CI/CD, and cloud-native development.
+
 
 
 ### 💻 Languages and Tools:
@@ -15,4 +14,4 @@ expertise in a challenging role as a full-stack Developer.
 
 ### 🙋‍♂️ Get in Touch
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimjeem/) [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/naimjeem/)  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimjeem) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/naimjeem)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimjeem/) [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/naimjeem/)  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimjeem)
