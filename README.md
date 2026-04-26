@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</h1>
 <!-- <h3 align="center">A passionate software engineer</h3> -->
 
-DevOps & Full-stack Engineer with experince in Node.js, NestJS, Rust and DevOps ecosystem. Skilled in building scalable, high-performance applications and automating deployments using Docker, and Jenkins, AWS. Passionate
-about clean architecture, CI/CD, and cloud-native development.
+Experienced in shipping things that have to survive contact with real users — enterprise frontends, event-driven backends, cloud infrastructure, and production security work. My day moves between React/Next.js, Angular, Node.js, NestJS, and TypeScript on the app side; Docker, Kubernetes, AWS,, and Terraform on the infrastructure side. I care about clean architecture, maintainable abstractions, and systems that hold up under real traffic and real teams.
+
+AI is an everyday collaborator — Claude, Ollama, and LLM workflows woven into how I think, debug, and review. Not a party trick. Leverage.
+
+Open to collaboration at the intersection of AI · Fullstack · DevOps · Cloud · Security.
 
 
 
@@ -12,6 +15,6 @@ about clean architecture, CI/CD, and cloud-native development.
 <br>
 <br>
 
-### 🙋‍♂️ Get in Touch
+### Get in Touch
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimjeem/) [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/naimjeem/)  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimjeem)
